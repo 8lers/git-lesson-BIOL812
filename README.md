@@ -3,7 +3,7 @@ Used for BIOL812 class demo Jan 31 2018
 
 ##Let's make another header
 
-Maybe this is where we say how to install our software, maybe add legalese disclaimer that it could blow up your computer at any given moment :) Viruses have been added
+EDIT joke statements have been removed from previous version Jan 31 2018
 
 ```{r, echo=FALSE}
 print("some demo R code")
